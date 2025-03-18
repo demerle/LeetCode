@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/demerle/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/demerle/LeetCode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/demerle/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/demerle/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/demerle/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/demerle/LeetCode/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/demerle/LeetCode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/demerle/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/demerle/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/demerle/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
